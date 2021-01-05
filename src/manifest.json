@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Microsoft docs language enforcer",
+    "description": "This extension will change language on every msdocs page",
+    "version": "1.0",
+  
+    "browser_action": {
+     "default_icon": "icon4.png",
+     "default_popup": "popup.html"
+    },
+    "permissions": [
+     "activeTab"
+     ]
+  }
